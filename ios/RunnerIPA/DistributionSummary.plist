@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>smax2.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>armv7</string>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>B1CEDE3B8AD5C4184C2661F28E362FC6B893579E</string>
+				<key>dateExpires</key>
+				<string>10/12/21</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>B1CEDE3B8AD5C4184C2661F28E362FC6B893579E</string>
+						<key>dateExpires</key>
+						<string>10/12/21</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>App.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>Q2S5VD9J47</string>
+						<key>name</key>
+						<string>ITSTK IT SERVICES TECHNOLOGY AND KNOWLEDGE  Ltda.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>B1CEDE3B8AD5C4184C2661F28E362FC6B893579E</string>
+						<key>dateExpires</key>
+						<string>10/12/21</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>Flutter.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>Q2S5VD9J47</string>
+						<key>name</key>
+						<string>ITSTK IT SERVICES TECHNOLOGY AND KNOWLEDGE  Ltda.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>B1CEDE3B8AD5C4184C2661F28E362FC6B893579E</string>
+						<key>dateExpires</key>
+						<string>10/12/21</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>flutter_webview_plugin.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>Q2S5VD9J47</string>
+						<key>name</key>
+						<string>ITSTK IT SERVICES TECHNOLOGY AND KNOWLEDGE  Ltda.</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>armv7</string>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>B1CEDE3B8AD5C4184C2661F28E362FC6B893579E</string>
+						<key>dateExpires</key>
+						<string>10/12/21</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>webview_flutter.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>Q2S5VD9J47</string>
+						<key>name</key>
+						<string>ITSTK IT SERVICES TECHNOLOGY AND KNOWLEDGE  Ltda.</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>Q2S5VD9J47.com.itstk.itstkcsc</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>Q2S5VD9J47</string>
+				<key>get-task-allow</key>
+				<true/>
+				<key>keychain-access-groups</key>
+				<array>
+					<string>Q2S5VD9J47.com.itstk.itstkcsc</string>
+				</array>
+			</dict>
+			<key>name</key>
+			<string>Runner.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>c5ff14ed-d445-4f86-bde5-4f2b8a8aaf51</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: com.itstk.itstkcsc</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>Q2S5VD9J47</string>
+				<key>name</key>
+				<string>ITSTK IT SERVICES TECHNOLOGY AND KNOWLEDGE  Ltda.</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>
